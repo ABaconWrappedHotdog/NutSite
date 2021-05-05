@@ -5,5 +5,4 @@ function nut (){
     nutty.volume = 1;
     nutty.play();
     setInterval(() => { butt.click() }, 100)
-   function nut ()
 }
