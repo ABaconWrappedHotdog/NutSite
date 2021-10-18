@@ -5,11 +5,12 @@
     font-size: xx-large;    
 }
 .Button{
-    background-image: url;('/image/nutboi.jpg')
+    background-image: url;
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
     width: 1000px;
-    font-size: 250px;
+    font-size: 200px;
     color: whitesmoke;
 }
+('/image/nutboi.jpg')
