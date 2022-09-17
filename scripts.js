@@ -2,7 +2,7 @@ console.log("Hi im a banana");
 function nut (){
    
     var nutty = new Audio("NutSound.mp3");
-    nutty.volume = 1;
+    nutty.volume = 100;
     nutty.play();
     setInterval(() => { butt.click() }, 100)
    nut()
